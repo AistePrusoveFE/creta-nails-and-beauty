@@ -1,14 +1,15 @@
 const IMAGES = [
-    'https://scontent.frix2-1.fna.fbcdn.net/v/t39.30808-6/281128381_128701509813658_8516163263889980850_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=3A243cfhCEQAX-wl0qX&_nc_ht=scontent.frix2-1.fna&oh=00_AT_jTX8zi1PUOs4JEt4bDIHyZ43wYnnYwRReCUUcbwB81Q&oe=629B850C',
-    'https://scontent.frix2-1.fna.fbcdn.net/v/t39.30808-6/283075547_128011559882653_2877412263867475731_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=oORFmd2uWz0AX9KSKJM&_nc_ht=scontent.frix2-1.fna&oh=00_AT_50768W6sN8JK_7tVEakkNL_FNcJgPs5AneKNzv56PYQ&oe=629BAC70',
-    'https://scontent.frix2-1.fna.fbcdn.net/v/t39.30808-6/282105944_127266706623805_3598865928442140515_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=WX4rJn8fYbMAX9SRYQR&_nc_oc=AQn1azv0emoMl4EmgNd3dEs_XcpRK5ngqSJLw0Hc0lYi7qzpRjoXGj5YogAwaHAcilI&_nc_ht=scontent.frix2-1.fna&oh=00_AT86E7JCLlJ7ZvqAU3-KRogMhX-iGrncqL6K4AfdBsRH0Q&oe=629BEB3D',
-    'https://scontent.frix2-1.fna.fbcdn.net/v/t39.30808-6/280479851_126145406735935_2511104288517841441_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=UtI2zQvUL00AX_4Z0fO&_nc_ht=scontent.frix2-1.fna&oh=00_AT8AxH7qFayzdcYSv1slgFgNMKktYYaA7i8prRirXpi8kw&oe=629C8C8C',
-    'https://scontent.frix2-1.fna.fbcdn.net/v/t39.30808-6/278953557_116868494330293_4498778304516299935_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=7Z2JQMz2rWYAX-0ORoX&_nc_ht=scontent.frix2-1.fna&oh=00_AT910SwJ8k0B8sSJlNDOs9yCRzBtETZ0ma6AX2elQBNBlQ&oe=629B6D4A',
-    'https://scontent.frix2-1.fna.fbcdn.net/v/t39.30808-6/278828483_116328044384338_2496574269292786547_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=_th4U0L8oBYAX_WVEAT&_nc_ht=scontent.frix2-1.fna&oh=00_AT9U5hzhHJPDejdy3inWsGogvy-HCb3FhTCgZnxJpgvz9Q&oe=629C3703',
-    'https://scontent.frix2-1.fna.fbcdn.net/v/t39.30808-6/278506911_110135115003631_2223944658016695020_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=X40L3EbbIyQAX_LVTwY&_nc_ht=scontent.frix2-1.fna&oh=00_AT-u4HGqoial9zyQom76VlRjpKGY2X4tkpuDHpFWxOxYyg&oe=629CC549',
-    'https://scontent.frix2-1.fna.fbcdn.net/v/t39.30808-6/278202636_105729362110873_2108371402055967320_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=lqSGiZeWbRYAX-fYdpd&_nc_ht=scontent.frix2-1.fna&oh=00_AT-agSSKV9nOezB6Oh2aO-BDiThn3iCDdL0dkOrxpU3A1w&oe=629B87F1',
-    'https://scontent.frix2-1.fna.fbcdn.net/v/t39.30808-6/278044124_104443528906123_2353947716821958655_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=GVgnNXhmx8YAX8VV4Fp&_nc_ht=scontent.frix2-1.fna&oh=00_AT9zO5ax39DLvFLQFAJK8t_Hglu1sHU7o2eG7EUOP3DgHg&oe=629D5812',
-    'https://scontent.frix2-1.fna.fbcdn.net/v/t39.30808-6/282291676_130512149632594_5062338887769098340_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=-L7sh_I9UOYAX9KUhdY&_nc_ht=scontent.frix2-1.fna&oh=00_AT90fIo4Va8JwmNNbBuRRJ2dKdxl7-n6c6afnDZpaoymLg&oe=629D23A5',
+    './nails/nails_3.jpeg',
+    './nails/nails_2.jpeg',
+    './nails/nails_1.jpeg',
+    './nails/nails_4.jpeg',
+    './nails/nails_5.jpeg',
+    './nails/nails_7.jpeg',
+    './nails/nails_8.jpeg',
+    './nails/nails_6.jpeg',
+    './nails/nails_9.jpeg',
+    './nails/nails_10.jpeg',
+    './nails/nails_11.jpeg',
 ]
 
 export default IMAGES
